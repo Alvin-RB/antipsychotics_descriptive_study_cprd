@@ -15,7 +15,7 @@ To support transparency and open science, this repository hosts the R code for t
 3. <b>Antipsychotic dose over time - analysis</b>
    - this scripts covers the analysis of antipsychotic dose
    
-4. <b>SMI code list - CPRD Aurum</b>
+4. <b>[SMI code list - CPRD Aurum](https://github.com/Alvin-RB/antipsychotics_descriptive_study_cprd/blob/main/Aurum_SMI_codelist_21032024.txt)</b>
    - the code list used to define severe mental illness in CPRD Aurum
    
 5. <b>[SMI code list - CPRD GOLD](https://github.com/Alvin-RB/antipsychotics_descriptive_study_cprd/blob/main/GOLD_SMI_codelist_21032024.txt)</b>
