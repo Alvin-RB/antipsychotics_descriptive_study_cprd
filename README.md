@@ -2,7 +2,7 @@
 
 <i>Status: Awaiting pre-print</i>
 
-This study analyses contemporary patterns of antipsychotic prescribing to people diagnosed with severe mental illness (SMI) in UK primary care. The data source is [Clinical Practice Research Datalink (CPRD)](https://www.cprd.com/). To support transparency and open science, this repository hosts the code and materials which support the manuscript - including:
+This study analyses contemporary patterns of antipsychotic prescribing to people diagnosed with severe mental illness (SMI) in UK primary care. The data source is [Clinical Practice Research Datalink (CPRD)](https://www.cprd.com/). To support transparency and open science, this repository hosts code and materials which support the manuscript - including:
 
 #### Code lists
 
