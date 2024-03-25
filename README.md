@@ -7,10 +7,10 @@ This study analyses contemporary patterns of antipsychotic prescribing to people
 #### Code lists
 
 1. SMI - [CPRD Aurum](https://github.com/Alvin-RB/antipsychotics_descriptive_study_cprd/blob/main/Aurum_SMI_codelist_21032024.txt) and [CPRD GOLD](https://github.com/Alvin-RB/antipsychotics_descriptive_study_cprd/blob/main/GOLD_SMI_codelist_21032024.txt)
-   - used to define SMI in CPRD Aurum and CPRD GOLD
+   - used to define SMI
    
-2. Antipsychotics - CPRD Aurum and CPRD GOLD
-    - used to identify prescriptions of antipsychotics in CPRD Aurum and CPRD GOLD
+2. Antipsychotics - [CPRD Aurum](https://github.com/Alvin-RB/antipsychotics_descriptive_study_cprd/blob/main/antipsychotics_AURUM_250324.txt) and [CPRD GOLD](https://github.com/Alvin-RB/antipsychotics_descriptive_study_cprd/blob/main/antipsychotics_GOLD_250324.txt)
+    - used to identify prescriptions of antipsychotics
 
 #### R Scripts
 
