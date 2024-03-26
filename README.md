@@ -14,13 +14,13 @@ This study analyses contemporary patterns of antipsychotic prescribing to people
 
 #### R Scripts
 
-1. Sample derivation and trends
+1. [Sample derivation and trends](https://github.com/Alvin-RB/antipsychotics_descriptive_study_cprd/blob/main/1.%20Sample%20derivation%20and%20trends_github%2025.03.24.R)
    - used to create the cohort and undertake analyses of trends in antipsychotic prescribing
    
-2. Antipsychotic dose over time - data processing
+2. Antipsychotic dose over time - [data processing](https://github.com/Alvin-RB/antipsychotics_descriptive_study_cprd/blob/main/2.%20Antipsychotic%20dose%20-%20data%20processing_github%2025.03.24.R)
    - used for the data processing required to analyse antipsychotic dose
    
-3. Antipsychotic dose over time - analysis
+3. Antipsychotic dose over time - [analysis](https://github.com/Alvin-RB/antipsychotics_descriptive_study_cprd/blob/main/3.%20Antipsychotic%20dose%20-%20analysis_github%2025.03.24.R)
    - used to undertake the analyses of antipsychotic dose
 
 #### Contact
