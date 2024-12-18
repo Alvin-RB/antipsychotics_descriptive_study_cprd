@@ -1,8 +1,8 @@
 # Prescribing of antipsychotics for people diagnosed with severe mental illness in UK primary care: A 20-year investigation of who receives treatment, with which agents, and at what doses.
 
-<i>Status: Preprint</i>
+<i>Status: Published</i>
 
-> Richards-Belle A, Launders N, Hardoon S, Man KKC, Bramon E, Osborn DPJ, Hayes JF. (2024) Prescribing of antipsychotics for people diagnosed with severe mental illness in UK primary care: A 20-year investigation of who receives treatment, with which agents, and at what doses. medRxiv 2024.03.26.24304727; doi: https://doi.org/10.1101/2024.03.26.24304727
+> Richards-Belle A, Launders N, Hardoon S, Man KKC, Bramon E, Osborn DPJ, Hayes JF. (2024) Prescribing of antipsychotics for people diagnosed with severe mental illness in UK primary care 2000–2019: 20-year investigation of who receives treatment, with which agents and at what doses. The British Journal of Psychiatry. Published online 2024:1-9. doi: [10.1192/bjp.2024.186](https://doi.org/10.1192/bjp.2024.186)
 
 This study analyses contemporary patterns of antipsychotic prescribing to people diagnosed with severe mental illness (SMI) in UK primary care. The data source is [Clinical Practice Research Datalink (CPRD)](https://www.cprd.com/). To support transparency and open science, this repository hosts code and materials which support the manuscript - including:
 
